@@ -1,0 +1,25 @@
+ATM PROCESS 
+Sanchayan Samaddar(RA1911042010094)
+Arpit Dakhera (RA1911042010083)
+CSBS batch 2
+We got a project on ATM process. Here is some intro of our project.
+
+Introduction
+
+Purpose:
+This document describes the software requirements and specification (SRS) for an
+automated tellermachine (ATM) network. The document is intended for the customer and 
+the developer (designers, testers, maintainers).
+The reader is assumed to have basic knowledge of banking accounts and account
+services. Knowledge
+and understanding of Unified Modeling Language (UML) diagrams is also
+required.
+
+Scope:
+
+The network enables customers to complete simple bank account services via automated teller machines
+(ATMs) that maybe located off premise and that need not be owned and operated by the
+customers bank. The ATM identifies a customer by a cash card and password. It collects
+information about a simple account transaction (e.g., deposit, withdrawal, transfer, bill 
+ payment), communicates the transaction information to the customers bank, and dispenses
+cash to the customer. The banks provide their own software for their own computers.
